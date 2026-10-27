@@ -2,7 +2,7 @@
 
 The Student Result and Grade Management System is a web-based application for managing university academic records from course registration through publication of official results. It supports role-based workflows for students, instructors, the Registrar, and the Department Head, including grade processing, GPA/CGPA calculation, transcripts, and re-evaluation.
 
-## Main Features
+## Main Features ##
 
 - Role-based login for Students, Instructors, the Registrar, and the Department Head
 - Course registration with credit-load validation
